@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="4EAPAUz-4rYxLfu8sx-4">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#00625b, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xoHjYG8MRshlQNViAlUF-2" value="字符翻译官" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=25;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="152.25" y="127" width="266.5" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="xoHjYG8MRshlQNViAlUF-6" value="&lt;ul&gt;&lt;li&gt;字符常量：&amp;nbsp;&#39;a&#39; , &#39;1&#39;, &#39;z&#39;, &#39;?&#39;, &#39;@&#39;&lt;/li&gt;&lt;li&gt;定义字符变量(与int 类似)&lt;br&gt;&amp;nbsp; &amp;nbsp; char ch1;&lt;br&gt;&amp;nbsp; &amp;nbsp; char ch2 = &#39;a&#39;;&lt;/li&gt;&lt;li&gt;输入输出&lt;br&gt;&amp;nbsp; &amp;nbsp; cin &amp;gt;&amp;gt; ch1;&lt;br&gt;&amp;nbsp; &amp;nbsp; cout &amp;lt;&amp;lt; ch1;&lt;/li&gt;&lt;li&gt;ascii码(连续的整数值)&lt;br&gt;&amp;nbsp; &amp;nbsp; &#39;0&#39; --- 48&amp;nbsp; &amp;nbsp; &#39;a&#39; --- 97&amp;nbsp; &#39;A&#39;--- 65&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;rounded=0;fontColor=#FFFFFF;fontSize=25;fontFamily=Comic Sans MS;textShadow=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="34" y="155" width="503" height="318" as="geometry" />
+        </mxCell>
+        <mxCell id="xoHjYG8MRshlQNViAlUF-7" value="字符翻译官" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=25;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="766.25" y="127" width="266.5" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="xoHjYG8MRshlQNViAlUF-10" value="&lt;ul&gt;&lt;li&gt;自动类型转换&lt;br&gt;&amp;nbsp; &amp;nbsp; 小类型+大类型 -&amp;gt; 大类型;&lt;br&gt;&amp;nbsp; &amp;nbsp; 大类型 变量 = 小类型;&lt;/li&gt;&lt;li&gt;强制类型转换&lt;br&gt;&amp;nbsp; &amp;nbsp; (数据类型) 变量名&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;int(a)&lt;br&gt;&amp;nbsp; &amp;nbsp; 数据类型(变量或表达式)&amp;nbsp; &amp;nbsp; &amp;nbsp; int(b + 1)&lt;/li&gt;&lt;li&gt;大小写字符&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;char(‘A’ + 32) -&amp;gt; &#39;a&#39;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;rounded=0;fontColor=#FFFFFF;fontSize=25;fontFamily=Comic Sans MS;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="645.5" y="155" width="508" height="357" as="geometry" />
+        </mxCell>
+        <mxCell id="xoHjYG8MRshlQNViAlUF-11" value="" style="endArrow=none;html=1;rounded=0;shadow=1;flowAnimation=0;jumpStyle=none;strokeColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="566" y="467" as="sourcePoint" />
+            <mxPoint x="566" y="133" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xoHjYG8MRshlQNViAlUF-12" value="数学魔法师" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=25;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="152.25" y="538" width="266.5" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="xoHjYG8MRshlQNViAlUF-13" value="&lt;ul&gt;&lt;li&gt;算数运算符：+ - * / %&lt;/li&gt;&lt;li&gt;数位拆分&lt;/li&gt;&lt;ul&gt;&lt;li&gt;个位：n % 10&lt;/li&gt;&lt;li&gt;十位：n / 10 % 10&lt;/li&gt;&lt;li&gt;百位：n / 100 % 10&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;取个位： n % 10&lt;/li&gt;&lt;li&gt;去个位： n /= 10&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;rounded=0;fontColor=#FFFFFF;fontSize=25;fontFamily=Comic Sans MS;textShadow=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="34" y="566" width="503" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="xoHjYG8MRshlQNViAlUF-14" value="数学魔法师" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=25;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="766.25" y="538" width="266.5" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="xoHjYG8MRshlQNViAlUF-15" value="&lt;ul&gt;&lt;li&gt;选择结构 1&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;if (条件)&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; 执行语句;&lt;br&gt;}&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;rounded=0;fontColor=#FFFFFF;fontSize=25;fontFamily=Comic Sans MS;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="645.5" y="566" width="508" height="357" as="geometry" />
+        </mxCell>
+        <mxCell id="xoHjYG8MRshlQNViAlUF-16" value="" style="endArrow=none;html=1;rounded=0;shadow=1;flowAnimation=0;jumpStyle=none;strokeColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="566" y="878" as="sourcePoint" />
+            <mxPoint x="566" y="544" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xoHjYG8MRshlQNViAlUF-17" value="&lt;ul&gt;&lt;li&gt;选择结构 2&lt;/li&gt;&lt;ul&gt;&lt;li&gt;if (条件)&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; 执行语句;&lt;br&gt;}&lt;br&gt;else &lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; 执行语句;&lt;br&gt;}&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;rounded=0;fontColor=#FFFFFF;fontSize=25;fontFamily=Comic Sans MS;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="879" y="566" width="508" height="357" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
