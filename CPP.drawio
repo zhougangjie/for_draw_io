@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="I5aDIzrliXxLVix5E_Ne-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FBEAEA;arcSize=4;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="200" width="800" height="430" as="geometry" />
+          <mxGeometry x="-38" y="210" width="790" height="420" as="geometry" />
         </mxCell>
         <mxCell id="I5aDIzrliXxLVix5E_Ne-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE2AD;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="195.13" y="258" width="300" height="272" as="geometry" />
@@ -53,7 +53,7 @@
         <mxCell id="I5aDIzrliXxLVix5E_Ne-18" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="580" y="300" width="121" height="206" as="geometry" />
         </mxCell>
-        <mxCell id="I5aDIzrliXxLVix5E_Ne-19" value="键盘" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;fillColor=#F9B5CB;" vertex="1" parent="I5aDIzrliXxLVix5E_Ne-18">
+        <mxCell id="I5aDIzrliXxLVix5E_Ne-19" value="显示器" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;fillColor=#F9B5CB;" vertex="1" parent="I5aDIzrliXxLVix5E_Ne-18">
           <mxGeometry width="121" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I5aDIzrliXxLVix5E_Ne-20" value="打印机" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;fillColor=#F9B5CB;" vertex="1" parent="I5aDIzrliXxLVix5E_Ne-18">
